@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ramsey - Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0f172a;
+      color: white;
+      text-align: center;
+      padding: 50px 20px;
+      margin: 0;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 1.2em;
+      color: #94a3b8;
+      margin-bottom: 30px;
+    }
+    .links a {
+      display: block;
+      background: #3b82f6;
+      color: white;
+      text-decoration: none;
+      padding: 15px 30px;
+      margin: 15px auto;
+      border-radius: 8px;
+      width: 200px;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+    .links a:hover {
+      background: #2563eb;
+      transform: scale(1.05);
+    }
+  </style>
+</head>
+<body>
+  <h1>Hi, I'm Ramsey</h1>
+  <p>Web Developer & Designer</p>
+  
+  <div class="links">
+    <a href="https://github.com/ramseymatevere691-lab">GitHub</a>
+    <a href="https://wa.me/27630361646">WhatsApp Me</a>
+    <a href="mailto:ramseymatevere692@gmail.com">Email Me</a>
+  </div>
+</body>
+</html>
